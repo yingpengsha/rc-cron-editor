@@ -1,0 +1,19 @@
+{
+  "name": "rc-cron-editor",
+  "version": "1.0.0",
+  "description": "cron editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yingpengsha/rc-cron-editor.git"
+  },
+  "author": "Pengsha Ying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yingpengsha/rc-cron-editor/issues"
+  },
+  "homepage": "https://github.com/yingpengsha/rc-cron-editor#readme"
+}
